@@ -1,9 +1,9 @@
-.. Ptest Method documentation master file, created by
-   sphinx-quickstart on Fri Jul 13 13:04:20 2018.
+.. PentestGodMod documentation master file, created by
+   MohitPanwarM on Fri Jul 13 13:04:20 2018.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Ptest Method's documentation!
+Welcome to PentestGodMod documentation!
 ========================================
 
 This Repo will be my knowledge database about Pentesting skills. It has been inspired by https://bitvijays.github.io And some of the content will be the same as a starting point.

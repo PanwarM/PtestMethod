@@ -101,6 +101,24 @@ Other Tools
    cme
    Responder
    DCSync
+   BloodHound
+   Powersploit
+
+#############################
+Uncover Active Directory Pentest
+#############################
+
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Other Tools
+
+   Kerberoasting
+   PassTheHash
+   Trusts
+   PasstheTicket
+   Mitigations_to_Enumeration
+
 
 #####################
 Obligatory Disclaimer

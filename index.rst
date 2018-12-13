@@ -111,7 +111,7 @@ Uncover Active Directory Pentest
 
 .. toctree::
    :maxdepth: 2
-   :caption: Other Tools
+   :caption: Uncover Active Directory Pentest
 
    Kerberoasting
    PassTheHash
